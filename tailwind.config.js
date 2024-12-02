@@ -27,5 +27,7 @@ export default {
     'to-purple-900',
     'from-indigo-900',
     'to-blue-900',
+    'animate-gradient-shift',
+    'animate-gradient-shift-reverse'
   ],
 };
